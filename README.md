@@ -1,1 +1,1 @@
-# face-recognition-to-detect-mood-and-suggest-songs-accordingly
+The human face plays an important role in knowing an individual’s mood. Music plays a vital role in one’s mentalwellbeing. Based on the mood of aperson he/she would like to listen to a specific genre of the songs. This systemplays a playlist automatically based on aperson’s mood
